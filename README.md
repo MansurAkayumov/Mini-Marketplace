@@ -1,2 +1,3 @@
-# Mini-Marketplace
-Mini marketplace made with react
+Имя: Абдулкаюмов Мансур
+Заняло: 2 часа
+Было сложно немного совместить обычный js с react, не привык к такому.
